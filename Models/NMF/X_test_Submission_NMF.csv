@@ -267,7 +267,7 @@ ArticleId,Category
 582,sport
 1845,politics
 965,tech
-1461,business
+1461,tech
 945,sport
 746,business
 1768,sport
@@ -462,7 +462,7 @@ ArticleId,Category
 172,sport
 1918,politics
 938,tech
-752,business
+752,tech
 2222,politics
 2038,business
 24,sport
@@ -507,7 +507,7 @@ ArticleId,Category
 149,sport
 1173,business
 6,politics
-1180,business
+1180,tech
 107,sport
 1629,politics
 131,tech
@@ -592,7 +592,7 @@ ArticleId,Category
 1035,entertainment
 2103,tech
 1230,sport
-1636,business
+1636,politics
 103,business
 927,tech
 379,politics
@@ -603,7 +603,7 @@ ArticleId,Category
 394,business
 625,tech
 1770,business
-1959,politics
+1959,business
 1371,business
 1359,sport
 921,entertainment
@@ -618,7 +618,7 @@ ArticleId,Category
 13,business
 796,sport
 585,sport
-1200,politics
+1200,entertainment
 642,politics
 237,tech
 1826,sport
@@ -640,7 +640,7 @@ ArticleId,Category
 414,entertainment
 2097,sport
 1420,tech
-1472,politics
+1472,business
 1757,business
 243,business
 1142,politics
